@@ -1,0 +1,953 @@
+.:
+total 100
+drwxr-xr-x. 9 root root  4096 Oct 12 10:19 .
+drwx------. 8 demo demo  4096 Oct 11 14:41 ..
+-rw-r--r--. 1 root root     5 Oct 11 13:55 addition.txt
+-rw-r--r--. 1 root root  1079 Oct 11 13:55 app.js
+drwxr-xr-x. 2 root root    16 Oct 11 13:55 bin
+drwxr-xr-x. 3 root root    45 Oct 12 09:28 branching
+drwxr-xr-x. 2 root root    24 Oct 11 13:55 data
+drwxrwxrwx. 8 root root  4096 Oct 12 10:12 .git
+-rw-r--r--. 1 root root    13 Oct 11 13:55 .gitignore
+-rw-r--r--. 1 root root     0 Oct 12 10:19 new123.txt
+-rw-r--r--. 1 root root 36078 Oct 12 10:18 newfile.txt
+-rw-r--r--. 1 root root   343 Oct 11 13:55 package.json
+-rw-r--r--. 1 root root 27225 Oct 11 13:55 package-lock.json
+drwxr-xr-x. 4 root root    42 Oct 11 13:55 public
+-rw-r--r--. 1 root root    36 Oct 11 13:56 readme.md
+-rw-r--r--. 1 root root   582 Oct 11 13:55 README.md
+drwxr-xr-x. 2 root root    37 Oct 11 13:55 routes
+drwxr-xr-x. 2 root root    80 Oct 11 13:55 views
+
+./bin:
+total 8
+drwxr-xr-x. 2 root root   16 Oct 11 13:55 .
+drwxr-xr-x. 9 root root 4096 Oct 12 10:19 ..
+-rwxr-xr-x. 1 root root 1618 Oct 11 13:55 www
+
+./branching:
+total 8
+drwxr-xr-x. 3 root root   45 Oct 12 09:28 .
+drwxr-xr-x. 9 root root 4096 Oct 12 10:19 ..
+drwxr-xr-x. 8 root root 4096 Oct 12 09:44 cicd-pipeline-train-schedule-git
+
+./branching/cicd-pipeline-train-schedule-git:
+total 80
+drwxr-xr-x. 8 root root  4096 Oct 12 09:44 .
+drwxr-xr-x. 3 root root    45 Oct 12 09:28 ..
+-rw-r--r--. 1 root root     5 Oct 12 09:28 addition.txt
+-rw-r--r--. 1 root root  1079 Oct 12 09:28 app.js
+drwxr-xr-x. 2 root root    16 Oct 12 09:28 bin
+drwxr-xr-x. 2 root root    24 Oct 12 09:28 data
+drwxr-xr-x. 8 root root  4096 Oct 12 09:31 .git
+-rw-r--r--. 1 root root    13 Oct 12 09:28 .gitignore
+-rw-r--r--. 1 root root 16794 Oct 12 10:10 newfile.txt
+-rw-r--r--. 1 root root   343 Oct 12 09:28 package.json
+-rw-r--r--. 1 root root 27225 Oct 12 09:28 package-lock.json
+drwxr-xr-x. 4 root root    42 Oct 12 09:28 public
+-rw-r--r--. 1 root root   144 Oct 12 09:28 readme.md
+-rw-r--r--. 1 root root   582 Oct 12 09:28 README.md
+drwxr-xr-x. 2 root root    37 Oct 12 09:28 routes
+drwxr-xr-x. 2 root root    80 Oct 12 09:28 views
+
+./branching/cicd-pipeline-train-schedule-git/bin:
+total 8
+drwxr-xr-x. 2 root root   16 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:44 ..
+-rwxr-xr-x. 1 root root 1618 Oct 12 09:28 www
+
+./branching/cicd-pipeline-train-schedule-git/data:
+total 8
+drwxr-xr-x. 2 root root   24 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:44 ..
+-rw-r--r--. 1 root root 1588 Oct 12 09:28 trains.json
+
+./branching/cicd-pipeline-train-schedule-git/.git:
+total 36
+drwxr-xr-x.  8 root root 4096 Oct 12 09:31 .
+drwxr-xr-x.  8 root root 4096 Oct 12 09:44 ..
+drwxr-xr-x.  2 root root    6 Oct 12 09:28 branches
+-rw-r--r--.  1 root root  289 Oct 12 09:28 config
+-rw-r--r--.  1 root root   73 Oct 12 09:28 description
+-rw-r--r--.  1 root root   20 Oct 12 09:31 HEAD
+drwxr-xr-x.  2 root root 4096 Oct 12 09:28 hooks
+-rw-r--r--.  1 root root 1400 Oct 12 09:31 index
+drwxr-xr-x.  2 root root   20 Oct 12 09:28 info
+drwxr-xr-x.  3 root root   28 Oct 12 09:28 logs
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 objects
+-rw-r--r--.  1 root root  255 Oct 12 09:28 packed-refs
+drwxr-xr-x.  5 root root   43 Oct 12 09:28 refs
+
+./branching/cicd-pipeline-train-schedule-git/.git/branches:
+total 4
+drwxr-xr-x. 2 root root    6 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:31 ..
+
+./branching/cicd-pipeline-train-schedule-git/.git/hooks:
+total 48
+drwxr-xr-x. 2 root root 4096 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:31 ..
+-rwxr-xr-x. 1 root root  452 Oct 12 09:28 applypatch-msg.sample
+-rwxr-xr-x. 1 root root  896 Oct 12 09:28 commit-msg.sample
+-rwxr-xr-x. 1 root root  189 Oct 12 09:28 post-update.sample
+-rwxr-xr-x. 1 root root  398 Oct 12 09:28 pre-applypatch.sample
+-rwxr-xr-x. 1 root root 1704 Oct 12 09:28 pre-commit.sample
+-rwxr-xr-x. 1 root root 1239 Oct 12 09:28 prepare-commit-msg.sample
+-rw-r--r--. 1 root root 1348 Oct 12 09:28 pre-push.sample
+-rwxr-xr-x. 1 root root 4951 Oct 12 09:28 pre-rebase.sample
+-rwxr-xr-x. 1 root root 3611 Oct 12 09:28 update.sample
+
+./branching/cicd-pipeline-train-schedule-git/.git/info:
+total 8
+drwxr-xr-x. 2 root root   20 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:31 ..
+-rw-r--r--. 1 root root  240 Oct 12 09:28 exclude
+
+./branching/cicd-pipeline-train-schedule-git/.git/logs:
+total 8
+drwxr-xr-x. 3 root root   28 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:31 ..
+-rw-r--r--. 1 root root  399 Oct 12 09:31 HEAD
+drwxr-xr-x. 4 root root   32 Oct 12 09:28 refs
+
+./branching/cicd-pipeline-train-schedule-git/.git/logs/refs:
+total 0
+drwxr-xr-x. 4 root root 32 Oct 12 09:28 .
+drwxr-xr-x. 3 root root 28 Oct 12 09:28 ..
+drwxr-xr-x. 2 root root 29 Oct 12 09:31 heads
+drwxr-xr-x. 3 root root 19 Oct 12 09:28 remotes
+
+./branching/cicd-pipeline-train-schedule-git/.git/logs/refs/heads:
+total 8
+drwxr-xr-x. 2 root root  29 Oct 12 09:31 .
+drwxr-xr-x. 4 root root  32 Oct 12 09:28 ..
+-rw-r--r--. 1 root root 169 Oct 12 09:31 dev
+-rw-r--r--. 1 root root 220 Oct 12 09:28 master
+
+./branching/cicd-pipeline-train-schedule-git/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x. 3 root root 19 Oct 12 09:28 .
+drwxr-xr-x. 4 root root 32 Oct 12 09:28 ..
+drwxr-xr-x. 2 root root 17 Oct 12 09:28 origin
+
+./branching/cicd-pipeline-train-schedule-git/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x. 2 root root  17 Oct 12 09:28 .
+drwxr-xr-x. 3 root root  19 Oct 12 09:28 ..
+-rw-r--r--. 1 root root 220 Oct 12 09:28 HEAD
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects:
+total 12
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 .
+drwxr-xr-x.  8 root root 4096 Oct 12 09:31 ..
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 04
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 08
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 09
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 0a
+drwxr-xr-x.  2 root root 4096 Oct 12 09:28 0f
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 12
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 15
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 1b
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 26
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 2f
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 33
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 34
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 37
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 3c
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 46
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 4d
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 51
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 59
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 67
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 68
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 6e
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 71
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 76
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 7a
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 7f
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 85
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 87
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 8d
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 97
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 9c
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 9d
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 a9
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 ad
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 b0
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 b7
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 bd
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 bf
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 c6
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 ce
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 ec
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 fb
+drwxr-xr-x.  2 root root    6 Oct 12 09:28 info
+drwxr-xr-x.  2 root root    6 Oct 12 09:28 pack
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/04:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  331 Oct 12 09:28 80341947d3d6e17a122d3ec3969df1c47b3c26
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/08:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  621 Oct 12 09:28 3ef112d750a35ccf77e1d1c471900a3b4f17f7
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/09:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  365 Oct 12 09:28 1305db2bd5ace7b8a8fe764cb55e02cb294ac6
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/0a:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  311 Oct 12 09:28 061565c7bf2e4293bbde0cdb52adf8fe2dd7f6
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/0f:
+total 20
+drwxr-xr-x.  2 root root 4096 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   56 Oct 12 09:28 1db1028a12c6d2829571424f27ac05555e4e38
+-r--r--r--.  1 root root  118 Oct 12 09:28 b05232e851ed7b97750b5926f45f97288c1056
+-r--r--r--.  1 root root   52 Oct 12 09:28 fbc49958378fe4ab5260a85588e67d26f054c2
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/12:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  182 Oct 12 09:28 e378807b9f15a5f3dec7fa204903cef1f3e0c2
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/15:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  197 Oct 12 09:28 202435794cdeeedb92534d9122cab35c3610c4
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/1b:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   47 Oct 12 09:28 02404e591958b3e9386e813ac132f0c175c564
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/26:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  132 Oct 12 09:28 60b73c66d20d5bc22ba7557ce4cc347af82bfa
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/2f:
+total 12
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  684 Oct 12 09:28 0d79407fca1ccd9ee7f748bbb4df87c89f91c6
+-r--r--r--.  1 root root  150 Oct 12 09:28 5903abe96c9876b9bce941c85d26cf97d02b91
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/33:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   87 Oct 12 09:28 bcfadeefd8618ba4e8b9a520671dbf8b91db58
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/34:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   20 Oct 12 09:28 5e6aef713208c8d50cdea23b85e6ad831f0449
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/37:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  224 Oct 12 09:28 0a1502ce02fc431f86df9b3e8f7cb20976ebda
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/3c:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   29 Oct 12 09:28 3629e647f5ddf82548912e337bea9826b434af
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/46:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  330 Oct 12 09:28 6134e1f7b6f9aee9d638e2fdf850379891af25
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/4d:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  397 Oct 12 09:28 68c6f021f9ee11a6b5f74bb9d5ab316d57b99c
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/51:
+total 12
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  427 Oct 12 09:28 4af8787af5e626c476fb51fd9573499edb7b5a
+-r--r--r--.  1 root root   87 Oct 12 09:28 ec12c6a26323d9f5bc51fb98cb1324a739ea4c
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/59:
+total 12
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  761 Oct 12 09:28 1de60c4c530c2d851cdbc42003b4b86a277a00
+-r--r--r--.  1 root root  311 Oct 12 09:28 a3c5b971879c62b531fbcc2fd4faf42270f2a4
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/67:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  236 Oct 12 09:28 1f8b5c264b3e15852381a35c7da056bd16937f
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/68:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  558 Oct 12 09:28 abdf47ea891be34253a3ac857d1ac85e2e881a
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/6e:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  204 Oct 12 09:28 6be715538434d277a4f9dc716ab4707d35a1ac
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/71:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  623 Oct 12 09:28 0c7aacd8d72d339b95a09972013a9996ddb617
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/76:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   54 Oct 12 09:28 11d1f8c02b3c6939adcbef77103a3feb4ab566
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/7a:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  397 Oct 12 09:28 59b086f932eda797665beb35cb598295c6cf83
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/7f:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   54 Oct 12 09:28 ecbfa5a60bd60816ba4c92bd0fa1883b8e0437
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/85:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  119 Oct 12 09:28 ebb91a0d25b3dd9f32a8f08d2a9141d04ff62f
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/87:
+total 12
+drwxr-xr-x.  2 root root   96 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  331 Oct 12 09:28 4c4d10cfc950402f16f01ccffc96d7dd85d8f7
+-r--r--r--.  1 root root  339 Oct 12 09:28 b3071da2a0cbff7380fbe28f6d614802956f39
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/8d:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  169 Oct 12 09:28 8f5f3d8a88670a2108f1f565d16277ca4adb63
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/97:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  559 Oct 12 09:28 416c67443e9e845fb365e39c4a7599a4233b11
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/9c:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root   83 Oct 12 09:28 1e83376a517a9b31dfbbf6c66e131239332873
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/9d:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  499 Oct 12 09:28 4f49b9c7058cc18e42a81f45dafdb390421e12
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/a9:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  365 Oct 12 09:28 a1398349a86ff592f08394bbf97c84a2abb2a5
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/ad:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  501 Oct 12 09:28 63fcd9509e7428943783b3005c23f3bbcc5a09
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/b0:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  224 Oct 12 09:28 8619b4273aaa8cda0adef06e9968426d3994e3
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/b7:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  177 Oct 12 09:28 9fa917d88310725989fdf3a8784df2ca7056c2
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/bd:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  150 Oct 12 09:28 ced4d8c0717563a3a29e5108c992a7a0abcee3
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/bf:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  202 Oct 12 09:28 9bbe5e6f18df76f12747af213ba9f40d280fe6
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/c6:
+total 12
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root 7910 Oct 12 09:28 7b5900742068f34903b4c5f8df86cc6212c682
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/ce:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  173 Oct 12 09:28 7b50ec99c5f060de28e597370a1b367fbddf01
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/ec:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  166 Oct 12 09:28 ca96a56b309a315ddf6399155fd2f953031d3b
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/fb:
+total 8
+drwxr-xr-x.  2 root root   51 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+-r--r--r--.  1 root root  118 Oct 12 09:28 f3c4b9e5fc874bed4767ebe09908c2423cbc98
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/info:
+total 4
+drwxr-xr-x.  2 root root    6 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+
+./branching/cicd-pipeline-train-schedule-git/.git/objects/pack:
+total 4
+drwxr-xr-x.  2 root root    6 Oct 12 09:28 .
+drwxr-xr-x. 45 root root 4096 Oct 12 09:28 ..
+
+./branching/cicd-pipeline-train-schedule-git/.git/refs:
+total 4
+drwxr-xr-x. 5 root root   43 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:31 ..
+drwxr-xr-x. 2 root root   29 Oct 12 09:31 heads
+drwxr-xr-x. 3 root root   19 Oct 12 09:28 remotes
+drwxr-xr-x. 2 root root    6 Oct 12 09:28 tags
+
+./branching/cicd-pipeline-train-schedule-git/.git/refs/heads:
+total 8
+drwxr-xr-x. 2 root root 29 Oct 12 09:31 .
+drwxr-xr-x. 5 root root 43 Oct 12 09:28 ..
+-rw-r--r--. 1 root root 41 Oct 12 09:31 dev
+-rw-r--r--. 1 root root 41 Oct 12 09:28 master
+
+./branching/cicd-pipeline-train-schedule-git/.git/refs/remotes:
+total 0
+drwxr-xr-x. 3 root root 19 Oct 12 09:28 .
+drwxr-xr-x. 5 root root 43 Oct 12 09:28 ..
+drwxr-xr-x. 2 root root 17 Oct 12 09:28 origin
+
+./branching/cicd-pipeline-train-schedule-git/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x. 2 root root 17 Oct 12 09:28 .
+drwxr-xr-x. 3 root root 19 Oct 12 09:28 ..
+-rw-r--r--. 1 root root 32 Oct 12 09:28 HEAD
+
+./branching/cicd-pipeline-train-schedule-git/.git/refs/tags:
+total 0
+drwxr-xr-x. 2 root root  6 Oct 12 09:28 .
+drwxr-xr-x. 5 root root 43 Oct 12 09:28 ..
+
+./branching/cicd-pipeline-train-schedule-git/public:
+total 4
+drwxr-xr-x. 4 root root   42 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:44 ..
+drwxr-xr-x. 2 root root   22 Oct 12 09:28 javascripts
+drwxr-xr-x. 2 root root   22 Oct 12 09:28 stylesheets
+
+./branching/cicd-pipeline-train-schedule-git/public/javascripts:
+total 4
+drwxr-xr-x. 2 root root   22 Oct 12 09:28 .
+drwxr-xr-x. 4 root root   42 Oct 12 09:28 ..
+-rw-r--r--. 1 root root 1724 Oct 12 09:28 global.js
+
+./branching/cicd-pipeline-train-schedule-git/public/stylesheets:
+total 4
+drwxr-xr-x. 2 root root  22 Oct 12 09:28 .
+drwxr-xr-x. 4 root root  42 Oct 12 09:28 ..
+-rw-r--r--. 1 root root 948 Oct 12 09:28 style.css
+
+./branching/cicd-pipeline-train-schedule-git/routes:
+total 12
+drwxr-xr-x. 2 root root   37 Oct 12 09:28 .
+drwxr-xr-x. 8 root root 4096 Oct 12 09:44 ..
+-rw-r--r--. 1 root root  205 Oct 12 09:28 index.js
+-rw-r--r--. 1 root root  365 Oct 12 09:28 trains.js
+
+./branching/cicd-pipeline-train-schedule-git/views:
+total 28
+drwxr-xr-x. 2 root root    80 Oct 12 09:28 .
+drwxr-xr-x. 8 root root  4096 Oct 12 09:44 ..
+-rw-r--r--. 1 root root    84 Oct 12 09:28 error.jade
+-rw-r--r--. 1 root root   353 Oct 12 09:28 index.jade
+-rw-r--r--. 1 root root 12288 Oct 12 09:28 .index.jade.swp
+-rw-r--r--. 1 root root   462 Oct 12 09:28 layout.jade
+
+./data:
+total 8
+drwxr-xr-x. 2 root root   24 Oct 11 13:55 .
+drwxr-xr-x. 9 root root 4096 Oct 12 10:19 ..
+-rw-r--r--. 1 root root 1588 Oct 11 13:55 trains.json
+
+./.git:
+total 40
+drwxrwxrwx.  8 root root 4096 Oct 12 10:12 .
+drwxr-xr-x.  9 root root 4096 Oct 12 10:19 ..
+drwxrwxrwx.  2 root root    6 Oct 11 13:55 branches
+-rwxrwxrwx.  1 root root   17 Oct 11 14:01 COMMIT_EDITMSG
+-rwxrwxrwx.  1 root root  289 Oct 11 13:58 config
+-rwxrwxrwx.  1 root root   73 Oct 11 13:55 description
+-rwxrwxrwx.  1 root root   20 Oct 12 10:12 HEAD
+drwxrwxrwx.  2 root root 4096 Oct 11 13:55 hooks
+-rwxrwxrwx.  1 root root 1400 Oct 12 10:12 index
+drwxrwxrwx.  2 root root   20 Oct 11 13:55 info
+drwxrwxrwx.  3 root root   28 Oct 11 13:55 logs
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 objects
+-rwxrwxrwx.  1 root root  255 Oct 11 13:55 packed-refs
+drwxrwxrwx.  5 root root   43 Oct 11 13:55 refs
+
+./.git/branches:
+total 4
+drwxrwxrwx. 2 root root    6 Oct 11 13:55 .
+drwxrwxrwx. 8 root root 4096 Oct 12 10:12 ..
+
+./.git/hooks:
+total 48
+drwxrwxrwx. 2 root root 4096 Oct 11 13:55 .
+drwxrwxrwx. 8 root root 4096 Oct 12 10:12 ..
+-rwxrwxrwx. 1 root root  452 Oct 11 13:55 applypatch-msg.sample
+-rwxrwxrwx. 1 root root  896 Oct 11 13:55 commit-msg.sample
+-rwxrwxrwx. 1 root root  189 Oct 11 13:55 post-update.sample
+-rwxrwxrwx. 1 root root  398 Oct 11 13:55 pre-applypatch.sample
+-rwxrwxrwx. 1 root root 1704 Oct 11 13:55 pre-commit.sample
+-rwxrwxrwx. 1 root root 1239 Oct 11 13:55 prepare-commit-msg.sample
+-rwxrwxrwx. 1 root root 1348 Oct 11 13:55 pre-push.sample
+-rwxrwxrwx. 1 root root 4951 Oct 11 13:55 pre-rebase.sample
+-rwxrwxrwx. 1 root root 3611 Oct 11 13:55 update.sample
+
+./.git/info:
+total 8
+drwxrwxrwx. 2 root root   20 Oct 11 13:55 .
+drwxrwxrwx. 8 root root 4096 Oct 12 10:12 ..
+-rwxrwxrwx. 1 root root  240 Oct 11 13:55 exclude
+
+./.git/logs:
+total 8
+drwxrwxrwx. 3 root root   28 Oct 11 13:55 .
+drwxrwxrwx. 8 root root 4096 Oct 12 10:12 ..
+-rwxrwxrwx. 1 root root  925 Oct 12 10:12 HEAD
+drwxrwxrwx. 4 root root   32 Oct 11 13:55 refs
+
+./.git/logs/refs:
+total 0
+drwxrwxrwx. 4 root root 32 Oct 11 13:55 .
+drwxrwxrwx. 3 root root 28 Oct 11 13:55 ..
+drwxrwxrwx. 2 root root 29 Oct 12 09:21 heads
+drwxrwxrwx. 3 root root 19 Oct 11 13:55 remotes
+
+./.git/logs/refs/heads:
+total 8
+drwxrwxrwx. 2 root root  29 Oct 12 09:21 .
+drwxrwxrwx. 4 root root  32 Oct 11 13:55 ..
+-rwxrwxrwx. 1 root root 171 Oct 12 09:21 dev
+-rwxrwxrwx. 1 root root 388 Oct 11 14:01 master
+
+./.git/logs/refs/remotes:
+total 0
+drwxrwxrwx. 3 root root 19 Oct 11 13:55 .
+drwxrwxrwx. 4 root root 32 Oct 11 13:55 ..
+drwxrwxrwx. 2 root root 30 Oct 11 14:02 origin
+
+./.git/logs/refs/remotes/origin:
+total 8
+drwxrwxrwx. 2 root root  30 Oct 11 14:02 .
+drwxrwxrwx. 3 root root  19 Oct 11 13:55 ..
+-rwxrwxrwx. 1 root root 220 Oct 11 13:55 HEAD
+-rwxrwxrwx. 1 root root 158 Oct 11 14:02 master
+
+./.git/objects:
+total 12
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 .
+drwxrwxrwx.  8 root root 4096 Oct 12 10:12 ..
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 04
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 08
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 09
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 0a
+drwxrwxrwx.  2 root root 4096 Oct 11 14:01 0f
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 15
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 1b
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 26
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 2f
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 33
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 34
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 37
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 3c
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 46
+drwxrwxrwx.  2 root root   51 Oct 11 14:01 4d
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 51
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 59
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 67
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 68
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 6e
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 71
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 76
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 7f
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 87
+drwxrwxrwx.  2 root root   51 Oct 11 14:01 8d
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 97
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 9c
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 9d
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 a9
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 ad
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 b0
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 b7
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 bd
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 bf
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 c6
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 ce
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 ec
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 fb
+drwxrwxrwx.  2 root root    6 Oct 11 13:55 info
+drwxrwxrwx.  2 root root    6 Oct 11 13:55 pack
+
+./.git/objects/04:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  331 Oct 11 13:55 80341947d3d6e17a122d3ec3969df1c47b3c26
+
+./.git/objects/08:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  621 Oct 11 13:55 3ef112d750a35ccf77e1d1c471900a3b4f17f7
+
+./.git/objects/09:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  365 Oct 11 13:55 1305db2bd5ace7b8a8fe764cb55e02cb294ac6
+
+./.git/objects/0a:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  311 Oct 11 13:55 061565c7bf2e4293bbde0cdb52adf8fe2dd7f6
+
+./.git/objects/0f:
+total 20
+drwxrwxrwx.  2 root root 4096 Oct 11 14:01 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   56 Oct 11 13:55 1db1028a12c6d2829571424f27ac05555e4e38
+-rwxrwxrwx.  1 root root  118 Oct 11 13:55 b05232e851ed7b97750b5926f45f97288c1056
+-rwxrwxrwx.  1 root root   52 Oct 11 14:01 fbc49958378fe4ab5260a85588e67d26f054c2
+
+./.git/objects/15:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  197 Oct 11 13:55 202435794cdeeedb92534d9122cab35c3610c4
+
+./.git/objects/1b:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   47 Oct 11 13:55 02404e591958b3e9386e813ac132f0c175c564
+
+./.git/objects/26:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  132 Oct 11 13:55 60b73c66d20d5bc22ba7557ce4cc347af82bfa
+
+./.git/objects/2f:
+total 12
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  684 Oct 11 13:55 0d79407fca1ccd9ee7f748bbb4df87c89f91c6
+-rwxrwxrwx.  1 root root  150 Oct 11 13:55 5903abe96c9876b9bce941c85d26cf97d02b91
+
+./.git/objects/33:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   87 Oct 11 13:55 bcfadeefd8618ba4e8b9a520671dbf8b91db58
+
+./.git/objects/34:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   20 Oct 11 13:55 5e6aef713208c8d50cdea23b85e6ad831f0449
+
+./.git/objects/37:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  224 Oct 11 13:55 0a1502ce02fc431f86df9b3e8f7cb20976ebda
+
+./.git/objects/3c:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   29 Oct 11 13:55 3629e647f5ddf82548912e337bea9826b434af
+
+./.git/objects/46:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  330 Oct 11 13:55 6134e1f7b6f9aee9d638e2fdf850379891af25
+
+./.git/objects/4d:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 14:01 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  397 Oct 11 14:01 68c6f021f9ee11a6b5f74bb9d5ab316d57b99c
+
+./.git/objects/51:
+total 12
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  427 Oct 11 13:55 4af8787af5e626c476fb51fd9573499edb7b5a
+-rwxrwxrwx.  1 root root   87 Oct 11 13:55 ec12c6a26323d9f5bc51fb98cb1324a739ea4c
+
+./.git/objects/59:
+total 12
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  761 Oct 11 13:55 1de60c4c530c2d851cdbc42003b4b86a277a00
+-rwxrwxrwx.  1 root root  311 Oct 11 13:55 a3c5b971879c62b531fbcc2fd4faf42270f2a4
+
+./.git/objects/67:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  236 Oct 11 13:55 1f8b5c264b3e15852381a35c7da056bd16937f
+
+./.git/objects/68:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  558 Oct 11 13:55 abdf47ea891be34253a3ac857d1ac85e2e881a
+
+./.git/objects/6e:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  204 Oct 11 13:55 6be715538434d277a4f9dc716ab4707d35a1ac
+
+./.git/objects/71:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  623 Oct 11 13:55 0c7aacd8d72d339b95a09972013a9996ddb617
+
+./.git/objects/76:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   54 Oct 11 13:55 11d1f8c02b3c6939adcbef77103a3feb4ab566
+
+./.git/objects/7f:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   54 Oct 11 13:55 ecbfa5a60bd60816ba4c92bd0fa1883b8e0437
+
+./.git/objects/87:
+total 12
+drwxrwxrwx.  2 root root   96 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  331 Oct 11 13:55 4c4d10cfc950402f16f01ccffc96d7dd85d8f7
+-rwxrwxrwx.  1 root root  339 Oct 11 13:55 b3071da2a0cbff7380fbe28f6d614802956f39
+
+./.git/objects/8d:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 14:01 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  169 Oct 11 14:01 8f5f3d8a88670a2108f1f565d16277ca4adb63
+
+./.git/objects/97:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  559 Oct 11 13:55 416c67443e9e845fb365e39c4a7599a4233b11
+
+./.git/objects/9c:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root   83 Oct 11 13:55 1e83376a517a9b31dfbbf6c66e131239332873
+
+./.git/objects/9d:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  499 Oct 11 13:55 4f49b9c7058cc18e42a81f45dafdb390421e12
+
+./.git/objects/a9:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  365 Oct 11 13:55 a1398349a86ff592f08394bbf97c84a2abb2a5
+
+./.git/objects/ad:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  501 Oct 11 13:55 63fcd9509e7428943783b3005c23f3bbcc5a09
+
+./.git/objects/b0:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  224 Oct 11 13:55 8619b4273aaa8cda0adef06e9968426d3994e3
+
+./.git/objects/b7:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  177 Oct 11 13:55 9fa917d88310725989fdf3a8784df2ca7056c2
+
+./.git/objects/bd:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  150 Oct 11 13:55 ced4d8c0717563a3a29e5108c992a7a0abcee3
+
+./.git/objects/bf:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  202 Oct 11 13:55 9bbe5e6f18df76f12747af213ba9f40d280fe6
+
+./.git/objects/c6:
+total 12
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root 7910 Oct 11 13:55 7b5900742068f34903b4c5f8df86cc6212c682
+
+./.git/objects/ce:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  173 Oct 11 13:55 7b50ec99c5f060de28e597370a1b367fbddf01
+
+./.git/objects/ec:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  166 Oct 11 13:55 ca96a56b309a315ddf6399155fd2f953031d3b
+
+./.git/objects/fb:
+total 8
+drwxrwxrwx.  2 root root   51 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+-rwxrwxrwx.  1 root root  118 Oct 11 13:55 f3c4b9e5fc874bed4767ebe09908c2423cbc98
+
+./.git/objects/info:
+total 4
+drwxrwxrwx.  2 root root    6 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+
+./.git/objects/pack:
+total 4
+drwxrwxrwx.  2 root root    6 Oct 11 13:55 .
+drwxrwxrwx. 42 root root 4096 Oct 11 14:01 ..
+
+./.git/refs:
+total 4
+drwxrwxrwx. 5 root root   43 Oct 11 13:55 .
+drwxrwxrwx. 8 root root 4096 Oct 12 10:12 ..
+drwxrwxrwx. 2 root root   29 Oct 12 09:21 heads
+drwxrwxrwx. 3 root root   19 Oct 11 13:55 remotes
+drwxrwxrwx. 2 root root    6 Oct 11 13:55 tags
+
+./.git/refs/heads:
+total 8
+drwxrwxrwx. 2 root root 29 Oct 12 09:21 .
+drwxrwxrwx. 5 root root 43 Oct 11 13:55 ..
+-rwxrwxrwx. 1 root root 41 Oct 12 09:21 dev
+-rwxrwxrwx. 1 root root 41 Oct 11 14:01 master
+
+./.git/refs/remotes:
+total 0
+drwxrwxrwx. 3 root root 19 Oct 11 13:55 .
+drwxrwxrwx. 5 root root 43 Oct 11 13:55 ..
+drwxrwxrwx. 2 root root 30 Oct 11 14:02 origin
+
+./.git/refs/remotes/origin:
+total 8
+drwxrwxrwx. 2 root root 30 Oct 11 14:02 .
+drwxrwxrwx. 3 root root 19 Oct 11 13:55 ..
+-rwxrwxrwx. 1 root root 32 Oct 11 13:55 HEAD
+-rwxrwxrwx. 1 root root 41 Oct 11 14:02 master
+
+./.git/refs/tags:
+total 0
+drwxrwxrwx. 2 root root  6 Oct 11 13:55 .
+drwxrwxrwx. 5 root root 43 Oct 11 13:55 ..
+
+./public:
+total 4
+drwxr-xr-x. 4 root root   42 Oct 11 13:55 .
+drwxr-xr-x. 9 root root 4096 Oct 12 10:19 ..
+drwxr-xr-x. 2 root root   22 Oct 11 13:55 javascripts
+drwxr-xr-x. 2 root root   22 Oct 11 13:55 stylesheets
+
+./public/javascripts:
+total 4
+drwxr-xr-x. 2 root root   22 Oct 11 13:55 .
+drwxr-xr-x. 4 root root   42 Oct 11 13:55 ..
+-rw-r--r--. 1 root root 1724 Oct 11 13:55 global.js
+
+./public/stylesheets:
+total 4
+drwxr-xr-x. 2 root root  22 Oct 11 13:55 .
+drwxr-xr-x. 4 root root  42 Oct 11 13:55 ..
+-rw-r--r--. 1 root root 948 Oct 11 13:55 style.css
+
+./routes:
+total 12
+drwxr-xr-x. 2 root root   37 Oct 11 13:55 .
+drwxr-xr-x. 9 root root 4096 Oct 12 10:19 ..
+-rw-r--r--. 1 root root  205 Oct 11 13:55 index.js
+-rw-r--r--. 1 root root  365 Oct 11 13:55 trains.js
+
+./views:
+total 28
+drwxr-xr-x. 2 root root    80 Oct 11 13:55 .
+drwxr-xr-x. 9 root root  4096 Oct 12 10:19 ..
+-rw-r--r--. 1 root root    84 Oct 11 13:55 error.jade
+-rw-r--r--. 1 root root   353 Oct 11 13:55 index.jade
+-rw-r--r--. 1 root root 12288 Oct 11 13:55 .index.jade.swp
+-rw-r--r--. 1 root root   462 Oct 11 13:55 layout.jade
